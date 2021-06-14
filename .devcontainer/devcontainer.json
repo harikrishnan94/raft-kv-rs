@@ -3,9 +3,12 @@
         "dockerfile": "Dockerfile"
     },
     "extensions": [
-        "matklad.rust-analyzer",
-        "serayuzgur.crates",
-        "tamasfe.even-better-toml",
-        "vadimcn.vscode-lldb"
-    ]
+		"matklad.rust-analyzer",
+		"serayuzgur.crates",
+		"tamasfe.even-better-toml",
+		"vadimcn.vscode-lldb",
+		"eamodio.gitlens",
+		"mhutchie.git-graph",
+		"github.vscode-pull-request-github"
+	]
 }
